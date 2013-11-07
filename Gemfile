@@ -14,6 +14,9 @@ gem 'activesupport'
 gem 'activerecord'
 
 gem 'rake'
+gem "mini_magick"
+gem 'carrierwave'
+
 
 gem 'shotgun'
 
